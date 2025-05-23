@@ -1,16 +1,33 @@
-## Hi there 👋
+# Oi, eu sou a Lorena! 👋
 
-<!--
-**loremd-dev/loremd-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Segurança da Informação  
+💜 Apaixonada por Frontend, UX e Acessibilidade  
+🚀 Sempre aprendendo e evoluindo — de olho em experiências que fazem sentido  
+🏳️‍⚧️ Vivendo com orgulho e criando com propósito
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tecnologias & Ferramentas
+- HTML | CSS
+- JavaScript
+- Figma
+- Python
+- Git & GitHub
+
+---
+
+### 🌱 Projetos em andamento
+- Desafios do Frontend Mentor
+
+---
+
+### 🔮 Quero aprender em breve
+- React.js
+- Next.js
+- TypeScript
+- Testes
+
+---
+
+### 📫 Contato
+[![Email](https://img.shields.io/badge/Email-lorenamendes5217@gmail.com-red)](mailto:lorenamendes5217@gmail.com)
