@@ -8,9 +8,14 @@
 - JavaScript
 - Python
 
-### 🔮 Estudando
-- React
+### 📚 Estudando
+- JavaScript
 - UX Design
-  
+
+### 🔮 Futuramente
+- TypeScript
+- React
+- Node.js/Express
+
 ### 📫 Contato
 [![Email](https://img.shields.io/badge/Email-lorenamendes5217@gmail.com-red)](mailto:lorenamendes5217@gmail.com)
