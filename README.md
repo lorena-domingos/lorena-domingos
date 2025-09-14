@@ -1,6 +1,6 @@
 # Oi, eu sou a Lorena! 👋
 
-🎓 Estudante de Segurança da Informação – 1º período
+🎓 Estudante de Segurança da Informação – 1º período      
 💜 Apaixonada por Frontend, UX e Acessibilidade  
 
 ### 💻 Tecnologias & Ferramentas
