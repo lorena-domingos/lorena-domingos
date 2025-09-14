@@ -1,7 +1,8 @@
 # Oi, eu sou a Lorena! 👋
 
-🎓 Estudante de Segurança da Informação – 1º período      
-💜 Apaixonada por Frontend, UX e Acessibilidade  
+🎓 Estudante de Segurança da Informação – 1º período  
+💜 Apaixonada por Frontend e curiosa por Backend  
+💡 Interesse em Acessibilidade e UX
 
 ### 💻 Tecnologias & Ferramentas
 - HTML | CSS
@@ -9,13 +10,13 @@
 - Python
 
 ### 📚 Estudando
-- JavaScript
-- UX Design
+- JavaScript (mais a fundo)
+- Backend com Node.js/Flask
+- UX (noções e boas práticas)
 
 ### 🔮 Futuramente
 - TypeScript
 - React
-- Node.js/Express
 
 ### 📫 Contato
 [![Email](https://img.shields.io/badge/Email-lorenamendes5217@gmail.com-red)](mailto:lorenamendes5217@gmail.com)
