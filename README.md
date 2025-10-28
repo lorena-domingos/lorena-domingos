@@ -1,13 +1,11 @@
 # Oi, eu sou a Lorena! 👋
 
 🎓 Estudante de Segurança da Informação – 2º período  
-💜 Explorando Frontend e Backend  
-💡 Interesse por Computação Forense
+💜 Explorando Frontend e Backend
 
 ### 📚 Estudando
 - JavaScript (Estrutura de Dados)
-- Python
-- Cibersegurança (Cisco – Redes)
+- Cibersegurança (Cisco – Dispositivos de Rede e Configuração Inicial)
 
 ### 🔮 Futuramente
 - TypeScript
