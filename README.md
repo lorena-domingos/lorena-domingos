@@ -5,7 +5,7 @@
 
 ### 📚 Estudando
 - Python
-- Cibersegurança (Cisco – Dispositivos de Rede e Configuração Inicial)
+- Cibersegurança (Cisco – Defesa de Rede)
 
 ### 🔮 Futuramente
 - Flask
