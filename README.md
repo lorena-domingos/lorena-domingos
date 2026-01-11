@@ -1,14 +1,18 @@
 # Oi, eu sou a Lorena! 👋
 
-🎓 Estudante de Segurança da Informação – 2º período  
+🎓 Estudante de Segurança da Informação – 3º período  
 💜 Criando scripts estranhos, mas com amor
+
+### 🏆 Certificações
+- **CCST Cybersecurity** – Cisco  
+  *Fundamentos de segurança, redes, ameaças e defesa*
 
 ### 📚 Estudando
 - Python
-- Cibersegurança (Cisco – Defesa de Rede)
+- Fator humano, engenharia social e comportamento do usuário
 
 ### 🔮 Futuramente
-- Flask
+- Psicologia do Comportamento Digital
 
 ### 📫 Contato
 [![Email](https://img.shields.io/badge/Email-lorenamendes5217@gmail.com-red)](mailto:lorenamendes5217@gmail.com)
