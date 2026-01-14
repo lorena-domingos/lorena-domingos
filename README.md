@@ -6,6 +6,8 @@
 ### 🏆 Certificações
 - **CCST Cybersecurity** – Cisco  
   *Fundamentos de segurança, redes, ameaças e defesa*
+- **CCST Networking** – Cisco  
+  *Fundamentos de redes, redes sem fio, firewalls, IDS/IPS e segurança de endpoints*
 
 ### 📚 Estudando
 - Python
