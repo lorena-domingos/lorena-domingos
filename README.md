@@ -15,8 +15,6 @@
 
 ### 📖 Lendo
 - Redes de Computadores: Fundamentos e Protocolos
-- Jornada Segurança da Informação: Unindo visão executiva e técnica para estratégia, comportamento, inovação e tendências (Jornada Colaborativa)
-- Introdução à Linguagem SQL
 
 ### 🔮 Futuramente
 - Psicologia do Comportamento Digital
