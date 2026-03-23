@@ -14,12 +14,5 @@
 
 ---
 
-## 📚 Estudando atualmente
-- Gerenciamento de Projetos em TI (Google / Coursera)
-- Python (automação básica e leitura de código)
-- Fundamentos de Linux, redes e cloud
-
----
-
 ## 📫 Contato
 [![Email](https://img.shields.io/badge/Email-lorenamendes5217@gmail.com-red)](mailto:lorenamendes5217@gmail.com)
