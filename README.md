@@ -8,6 +8,8 @@
 - Vue/JavaScript
 - UX/UI
 
+Estou focada em aprender mais sobre desenvolvimento Web e pode me encontrar [aqui](https://github.com/lorena-front) também💕
+
 ## 🛡️ Formação & Certificações
 - **CCST Cybersecurity** – Cisco  
   Fundamentos de segurança da informação, ameaças, defesa e boas práticas
