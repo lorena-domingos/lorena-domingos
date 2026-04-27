@@ -11,9 +11,9 @@
 - Testes de Invasão e Pareceres
 
 ## 🛡️ Formação & Certificações
-- [**CCST Cybersecurity**](https://www.credly.com/earner/earned/badge/0adbbcae-4b68-4f12-b02c-092998332062) - Cisco  
+- [**CCST Cybersecurity**](https://www.credly.com/badges/0adbbcae-4b68-4f12-b02c-092998332062/public_url) - Cisco  
   Fundamentos de segurança da informação, ameaças, defesa e boas práticas
-- [**CCST Networking**](https://www.credly.com/earner/earned/badge/ab1c8d07-a95a-497f-95df-9e25dbff4c1f) - Cisco  
+- [**CCST Networking**](https://www.credly.com/badges/ab1c8d07-a95a-497f-95df-9e25dbff4c1f/public_url) - Cisco  
   Redes, redes sem fio, firewalls, IDS/IPS e segurança de endpoints
 
 ## 🛠️ Ferramentas
